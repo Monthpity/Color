@@ -30,4 +30,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Monthpity/Monthpity.github.io&type=Date)](https://star-history.com/#Monthpity/Monthpity.github.io&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Monthpity/Color&type=Date)](https://star-history.com/#Monthpity/Color&Date)
